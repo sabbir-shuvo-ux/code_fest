@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/code_fest/static/css/main.4755d1c0.css",
+    "main.js": "/code_fest/static/js/main.f2541e10.js",
+    "static/js/787.eb3f3510.chunk.js": "/code_fest/static/js/787.eb3f3510.chunk.js",
+    "static/media/head2.svg": "/code_fest/static/media/head2.c8aa9585c75eeedb6a3776c23ced2f41.svg",
+    "static/media/user.svg": "/code_fest/static/media/user.6b7ed35056e498a9cf4f2c585b38c119.svg",
+    "index.html": "/code_fest/index.html",
+    "main.4755d1c0.css.map": "/code_fest/static/css/main.4755d1c0.css.map",
+    "main.f2541e10.js.map": "/code_fest/static/js/main.f2541e10.js.map",
+    "787.eb3f3510.chunk.js.map": "/code_fest/static/js/787.eb3f3510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4755d1c0.css",
+    "static/js/main.f2541e10.js"
+  ]
+}
